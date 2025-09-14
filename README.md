@@ -3,6 +3,9 @@
 This project determines if two questions are semantically similar (duplicate intent) using **Natural Language Processing (NLP)** techniques and a machine learning pipeline. The trained model is deployed as an interactive web application using **Streamlit**.
 
 ---
+🚀 Live Demo i was deployed app on render platform 
+You can try the live application here:
+https://quora-similarity-app.onrender.com/
 
 ## 📜 Table of Contents
 
